@@ -1,0 +1,64 @@
+{
+    "Restaurants": [
+        {
+            "Rank": 1,
+            "title": "Central",
+            "location": "Lima, Peru",
+            "Michelin_stars": 0,
+            "Store_open": true,
+            "Year_Founded": 2009,
+            "Annual_Revenue": "$5 million",
+            "Specialties": "Peruvian cuisine",
+            "Average_Daily_Customer_Count": 150,
+            "Ratings": 4.5
+        },
+        {
+            "Rank": 2,
+            "title": "Disfrutar",
+            "location": "Barcelona, Spain",
+            "Michelin_stars": 2,
+            "Store_open": true,
+            "Year_Founded": 2014,
+            "Annual_Revenue": "$8 million",
+            "Specialties": "Molecular gastronomy",
+            "Average_Daily_Customer_Count": 120,
+            "Ratings": 4.8
+        },
+        {
+            "Rank": 3,
+            "title": "Diverxo",
+            "location": "Madrid, Spain",
+            "Michelin_stars": 3,
+            "Store_open": true,
+            "Year_Founded": 2007,
+            "Annual_Revenue": "$10 million",
+            "Specialties": "Fusion cuisine",
+            "Average_Daily_Customer_Count": 100,
+            "Ratings": 4.9
+        },
+        {
+            "Rank": 4,
+            "title": "Asador Etxebarri",
+            "location": "Axpe, Spain",
+            "Michelin_stars": 1,
+            "Store_open": true,
+            "Year_Founded": 1990,
+            "Annual_Revenue": "$3 million",
+            "Specialties": "Basque grill",
+            "Average_Daily_Customer_Count": 80,
+            "Ratings": 4.3
+        },
+        {
+            "Rank": 5,
+            "title": "Alchemist",
+            "location": "Copenhagen, Denmark",
+            "Michelin_stars": 2,
+            "Store_open": true,
+            "Year_Founded": 2005,
+            "Annual_Revenue": "$12 million",
+            "Specialties": "Nordic cuisine",
+            "Average_Daily_Customer_Count": 130,
+            "Ratings": 4.7
+        }
+    ]
+}
